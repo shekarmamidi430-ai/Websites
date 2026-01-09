@@ -333,7 +333,7 @@ export default function Home() {
                     </div>
 
                     <div className={`${styles.card3} ${styles.tall3}`}>
-                        <Image src="/grid2.jpeg" alt="" fill />
+                        <Image src="/festival5.jpg" alt="" fill />
                     </div>
                     <div className={`${styles.card3} ${styles.small3}`}>
                         <Image src="/diwali6.jpeg" alt="" fill />
